@@ -16,7 +16,7 @@ _Markdown:_ a quick tutorial
 - Plain text with some extra symbols: `*`, `_`, `#` etc.
 - Supports formatting text- **bold** or _italic_, adding images <img src="markdown.png" width="28">, 
 	- and creating lists etc.
-- Plus emojis :heart:, $math$ , `code`
+- Plus emojis :heart:
 
 - Websites like [GitHub](github.com), [Reddit](reddit.com) use  it
 
@@ -119,21 +119,6 @@ First Header | Second Header
 ------------ | -------------
 Cell 1 | Cell 2
 First column | Second column
-
----
-
-# Math
-
-Use `$` for inline maths, such as $ax^2+bc+c$, and `$$` for block maths:
-
-$$I_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx$$
-
-```html
-This is inline: $ax^2+bx+c$, and this is block:
-
-$$I_{xx}=\int\int_Ry^2f(x,y)\cdot{}dydx$$
-
-```
 
 ---
 
