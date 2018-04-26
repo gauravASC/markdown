@@ -126,4 +126,4 @@ First column | Second column
 
 #### Using [Marp](https://github.com/yhatt/marp), markdown presentation writer
 
-#### Download: https://github.com/gauravASC/markdown/raw/master/markdown.pdf
+#### Download [PDF slides](https://github.com/gauravASC/markdown/raw/master/markdown.pdf).
