@@ -5,7 +5,7 @@
 _Markdown:_ a quick tutorial 
 ===
 
-###### Adapted from https://guides.github.com/features/mastering-markdown/
+###### Adapted from [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 ###### Presented by Gaurav Trivedi ([@trivedigaurav](https://twitter.com/trivedigaurav))
 
 ---
