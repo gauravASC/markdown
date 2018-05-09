@@ -27,7 +27,7 @@ _Markdown:_ a quick tutorial
 - The key design goal: _"readability"_
 	- As compared to HTML, etc.
 - Easy to markup plain text
-- Commonly used in readme files, comments and discussion forums etc.
+- Commonly used in readme files, comments and discussion forums:
 	- Websites like [GitHub](github.com), [Reddit](reddit.com) , [StackOverflow](stackoverflow.com) use  it...
 
 ---
@@ -156,11 +156,11 @@ First column | Second column
 
 # Group Task
 
-- What are some other examples that could use “markdown”? 
+- Where would use you markdown? 
 
 - Ask the following questions:
  	- manage lot of text?
- 	- should it be quick and easy to edit? 
+ 	- quick and easy to edit? 
 	- is readibility important?
 ---
 
@@ -178,7 +178,7 @@ He appears alert, oriented, and in no acute distress with excellent cognitive fu
 This 59-year-old white male is seen for comprehensive annual health maintenance examination. Medical problems include chronic tinnitus in the left ear with moderate hearing loss for many years without any recent change.
 
 ###### PHYSICAL EXAMINATION:
-He appears alert, oriented, and in no acute distress with excellent cognitive function. **Vital Signs:** His height is 6 feet 2 inches, weight is 181.2, blood pressure is 126/80,  pulse rate is 68 and regular, and respirations are 16. **Skin:** Warm and dry. **Lungs:** Clear to percussion and auscultation. Normal sinus rhythm. Heart sounds are of good quality and intensity. **Abdomen:** Benign without guarding, rigidity, tenderness, mass or organomegaly. **Neurologic:** Grossly intact.
+He appears alert, oriented, and in no acute distress with excellent cognitive function.  **Vital Signs:** His height is 6 feet 2 inches, weight is 181.2, blood pressure is 126/80, pulse rate is 68 and regular, and respirations are 16.  **Skin:** Warm and dry. **Lungs:** Clear to percussion and auscultation. Normal sinus rhythm. Heart sounds are of good quality and intensity.  **Abdomen:** Benign without guarding, rigidity, tenderness, mass or organomegaly.  **Neurologic:** Grossly intact.
 
 ---
 ```text
